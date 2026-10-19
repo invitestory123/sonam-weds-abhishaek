@@ -14,7 +14,7 @@ window.WEDDING_DATA = {
 
   invite: {
     kicker: "Together with their families",
-    line: "cordially invite you to celebrate their wedding reception",
+    line: "cordially invite you to celebrate their wedding reception on",
   },
 
   event: {
@@ -64,7 +64,7 @@ window.WEDDING_DATA = {
   },
 
   footer: {
-    families: `With Blessings & Warm Regards,\n\nLate Mrs. Poonam Shukla & Mr. Santosh Shukla & Family\n(Bride's Family)\n\n&\n\nMrs. Anamika Shukla & Mr. Anil Kumar Shukla & Family\n(Groom's Family)`,
+    families: `With Blessings & Warm Regards,\n\nLate Mrs. Poonam Shukla & Mr. Santosh Shukla with Family\n(Bride's Family)\n\n&\n\nMrs. Anamika Shukla & Mr. Anil Kumar Shukla with Family\n(Groom's Family)`,
     contacts: [
       { name: "Groom's Family", phone: "9455043621" },
       { name: "Groom's Family", phone: "9793140908" },
